@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table rowspan and colspan</title>
+    <style>
+       
+    </style>
+   
+</head>
+<body>
+    <h1>table with rowspan and colspan</h1>
+    <table border="2" width="400" cellpadding="20" cellspacing="1">
+        <tr>
+            <td align="center">1</td>
+            <td align="center">2</td>
+            <td align="center">3</td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">4</td>
+            <td align="center">5</td>
+        </tr>
+        <tr>
+            <td rowspan="2" align="center">6</td>
+            <td align="center">7</td>
+            <td rowspan="3" align="center">8</td>
+        </tr>
+        <tr>
+            <td align="center">9</td>
+            
+        </tr>
+        <tr>
+            <td colspan="2" align="center">10</td>
+        </tr>
+    
+        
+    </table>
+    <h1>time table</h1>
+    <table border="1" height="200" cellpadding="15">
+        <tr>
+            <th>Day/period</th>
+            <th>9.30-10.20</th>
+            <th>9.30-10.20</th>
+            <th>9.30-10.20</th>
+            <th>9.30-10.20</th>
+            <th>9.30-10.20</th>
+            <th>9.30-10.20</th>
+            <th>9.30-10.20</th>
+            <th>9.30-10.20</th>
+        </tr>
+            
+        
+        <tr>
+            <th>Mon</th>
+            <td>eng</td>
+            <td>math</td>
+            <td>che</td>
+            <td rowspan="5">lunch</td>
+            <td colspan="3"align="center">lab</td>
+            <td>phy</td>
+           
+        </tr>
+        <tr>
+            <th>Tue</th>
+            <td colspan="3"align="center">lab</td>
+            <td>eng</td>
+            <td>che</td>
+            <td>mat</td>
+            <td>sports</td>
+            
+        </tr>
+        <tr>
+            <th>Wed</th>
+            <td>math</td>
+            <td>phy</td>
+            <td>eng</td>
+            <td>che</td>
+            <td colspan="3" align="center">lab</td>
+            
+        </tr>
+        <tr>
+            <th>Thu</th>
+            <td>phy</td>
+            <td>che</td>
+            <td>eng</td>
+            <td colspan="3"align="center">lab</td>
+            <td>math</td>
+           
+        </tr>
+        <tr>
+            <th>Fri</th>
+            <td>math</td>
+            <td>che</td>
+            <td>eng</td>
+            <td colspan="3"align="center">lab</td>
+            <td>sports</td>
+           
+            
+        </tr>
+    </table>
+    
+</body>
+</html>
