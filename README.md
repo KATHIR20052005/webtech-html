@@ -59,9 +59,10 @@ I'm a passionate developer who enjoys building modern web applications, AI proje
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+- 💼 LinkedIn: [https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/elang-kathir-136866258?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 - 🌍 Portfolio: https://YOUR-PORTFOLIO
-- 📧 Email: yourmail@gmail.com
+- 📧 Email: elangkathirs0mail@gmail.com
 
 ---
 
